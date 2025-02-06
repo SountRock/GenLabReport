@@ -1,6 +1,8 @@
 <style>
-    div {
-       
+    body {
+        font-family: 'Times New Roman', serif;
+        font-size: 12px;
+        line-height: 1.15; 
     }
     span {
         font-family: 'Times New Roman', serif;
@@ -15,8 +17,11 @@
 
     h1, h2, h3, h4, h5, h6 {
         margin-left: 0; 
+        font-weight: bold;
     }
 </style>
+
+__Нормальная версия в OtherFormats (pdf)__
 
 ## <span> День 1 (04.02.24) </span>
 
@@ -24,6 +29,7 @@
 Студенты: Лыков К.А., Чупов Е.А.
 
 Глобальная цель: Произвести секвенирование генома человека и биоинформатически обработать данные.
+
 
 __Рабочий образец: образец 006 ДНК человека__
 
